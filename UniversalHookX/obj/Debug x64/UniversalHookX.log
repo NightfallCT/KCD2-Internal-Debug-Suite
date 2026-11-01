@@ -1,0 +1,5 @@
+﻿icl: : message #10441: The Intel(R) C++ Compiler Classic (ICC) is deprecated and will be removed from product release in the second half of 2023. The Intel(R) oneAPI DPC++/C++ Compiler (ICX) is the recommended compiler moving forward. Please transition to use this compiler. Use '/Qdiag-disable:10441' to disable this message.
+  menu.cpp
+  
+C:\Users\night\Documents\Coding\!!MyProjects\C++\KCD2-Internal\UniversalHookX\src\hooks\ig-hooks.cpp(60) (col. 4): : warning #2010: offset is too large for a short mov (3212836864)
+  

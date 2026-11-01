@@ -1,0 +1,4 @@
+/home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/build/CMakeFiles/minhook.dir
+/home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/build/CMakeFiles/UniversalHookX.dir
+/home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/build/CMakeFiles/edit_cache.dir
+/home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+ libminhook.a -ld3d9 -ld3d10 -ld3d11 -ld3d12 -ldxgi -ld3dcompiler -lopengl32 -lgdi32 -ldwmapi -luser32 -limm32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

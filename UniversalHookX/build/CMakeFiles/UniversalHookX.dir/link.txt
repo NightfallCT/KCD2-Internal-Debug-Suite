@@ -1,0 +1,3 @@
+/usr/bin/cmake -E rm -f CMakeFiles/UniversalHookX.dir/objects.a
+/usr/bin/x86_64-w64-mingw32-ar qc CMakeFiles/UniversalHookX.dir/objects.a @CMakeFiles/UniversalHookX.dir/objects1.rsp
+/usr/bin/x86_64-w64-mingw32-g++ -O3 -DNDEBUG -shared -flto -static -static-libgcc -static-libstdc++ /home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/src/exports.def -o "/home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/bin/KCD2-Internal Release x64.dll" -Wl,--out-implib,"libKCD2-Internal Release x64.dll.a" -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles/UniversalHookX.dir/objects.a -Wl,--no-whole-archive @CMakeFiles/UniversalHookX.dir/linkLibs.rsp

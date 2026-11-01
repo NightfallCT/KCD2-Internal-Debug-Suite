@@ -1,0 +1,8 @@
+
+
+TODO:
+- AOB based ESP?
+- Item ESP
+- More Entity-Manager features
+- More player stats in the editor
+

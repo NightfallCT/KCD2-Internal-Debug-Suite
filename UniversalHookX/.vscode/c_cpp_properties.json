@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "windows-mingw-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/src/hooks",
+                "${workspaceFolder}/src/console",
+                "${workspaceFolder}/src/menu",
+                "${workspaceFolder}/src/utils",
+                "${workspaceFolder}/src/dependencies/minhook",
+                "${workspaceFolder}/src/dependencies/imgui",
+                "${workspaceFolder}/src/fly",
+                "${workspaceFolder}/src/esp"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "WIN32",
+                "_WIN64"
+            ],
+            "compilerPath": "/usr/bin/x86_64-w64-mingw32-g++",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

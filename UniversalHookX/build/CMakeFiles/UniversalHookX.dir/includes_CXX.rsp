@@ -1,0 +1,1 @@
+-I"/home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/src" -I"/home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/src/dependencies/imgui" -I"/home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/src/dependencies/minhook" -I"/home/nightfall/Coding/MyProjects/C++/KCD2-Internal/UniversalHookX/cmake/win32-case-shim"

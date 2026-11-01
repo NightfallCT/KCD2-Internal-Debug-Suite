@@ -1,0 +1,2 @@
+/usr/bin/x86_64-w64-mingw32-ar qc libminhook.a CMakeFiles/minhook.dir/src/dependencies/minhook/buffer.c.obj CMakeFiles/minhook.dir/src/dependencies/minhook/hook.c.obj CMakeFiles/minhook.dir/src/dependencies/minhook/trampoline.c.obj CMakeFiles/minhook.dir/src/dependencies/minhook/hde/hde32.c.obj CMakeFiles/minhook.dir/src/dependencies/minhook/hde/hde64.c.obj
+/usr/bin/x86_64-w64-mingw32-ranlib libminhook.a

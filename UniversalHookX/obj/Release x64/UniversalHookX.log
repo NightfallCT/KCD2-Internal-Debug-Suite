@@ -1,0 +1,17 @@
+﻿icl: : message #10441: The Intel(R) C++ Compiler Classic (ICC) is deprecated and will be removed from product release in the second half of 2023. The Intel(R) oneAPI DPC++/C++ Compiler (ICX) is the recommended compiler moving forward. Please transition to use this compiler. Use '/Qdiag-disable:10441' to disable this message.
+  menu.cpp
+C:\Users\night\Documents\Coding\!!MyProjects\C++\KCD2-Internal\UniversalHookX\src\menu\menu.cpp(66): warning #1786: function "fopen" (declared at line 213 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h") was declared deprecated ("This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+                    FILE* f = fopen(setPath.c_str( ), "wb");
+                              ^
+  
+C:\Users\night\Documents\Coding\!!MyProjects\C++\KCD2-Internal\UniversalHookX\src\menu\menu.cpp(88): warning #1786: function "fopen" (declared at line 213 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h") was declared deprecated ("This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+                    FILE* f = fopen(setPath.c_str( ), "rb");
+                              ^
+  
+  
+C:\Users\night\Documents\Coding\!!MyProjects\C++\KCD2-Internal\UniversalHookX\src\hooks\ig-hooks.cpp(60) (col. 4): : warning #2010: offset is too large for a short mov (3212836864)
+  
+libucrt.lib(frexp.obj) : : warning LNK4006: frexp already defined in libmmt.lib(frexp_iface_c99.obj); second definition ignored
+     Creating library .\bin\KCD2-Internal Release x64.lib and object .\bin\KCD2-Internal Release x64.exp
+.\bin\KCD2-Internal Release x64.dll : : warning LNK4088: image being generated due to /FORCE option; image may not run
+  UniversalHookX.vcxproj -> C:\Users\night\Documents\Coding\!!MyProjects\C++\KCD2-Internal\UniversalHookX\bin\KCD2-Internal Release x64.dll
